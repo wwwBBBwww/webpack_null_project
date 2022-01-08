@@ -1,0 +1,25 @@
+@font-face {
+  font-family: IslandMoments;
+  src: url("../assets/fonts/IslandMoments-Regular.ttf") format("truetype");
+}
+
+.container {
+  padding: 8px 16px;
+  background-color: rgba(45, 45, 45, 0.3);
+  display: inline-block;
+}
+h1 {
+  font-family: IslandMoments;
+}
+
+body {
+  font-family: IslandMoments;
+  color: green;
+}
+.a{
+  width: 100px;
+  height: 100px;
+  // background: rgb(0, 81, 255);
+  background: url("../assets/image/img.jpg");
+  background-position: center;
+}
